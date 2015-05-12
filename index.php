@@ -1,6 +1,7 @@
 <?php
 	echo "di hapus oleh k3513025";
 	echo "edit oleh k3513025";
+	echo "di edit teman oleh k3513069";
 ?>
 <?php
 
