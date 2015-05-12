@@ -1,5 +1,5 @@
 <?php
-	echo "tambah 1 file oleh k3513025";
+	echo "di hapus oleh k3513025";
 	echo "edit oleh k3513025";
 ?>
 <?php
