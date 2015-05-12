@@ -1,5 +1,5 @@
 <?php
-	echo "ini isinya terserah";
+	echo "hapus oleh k3513025";
 	echo "edit oleh k3513025";
 ?>
 <?php
