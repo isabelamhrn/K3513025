@@ -1,9 +1,7 @@
+
 <?php
-	echo "hapus oleh k3513025";
-	echo "edit oleh k3513025";
-?>
-<?php
-//tambah satu baris edit oleh K3513069
+//ini komentar terserah
+//terserah lagi deh
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
