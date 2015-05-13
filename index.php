@@ -1,6 +1,5 @@
 
 <?php
-//ini komentar terserah
 //terserah lagi deh
 /*
  *---------------------------------------------------------------
